@@ -1,0 +1,26 @@
+job_role,required_skills,salary_range,category
+Data Scientist,Python SQL Machine_Learning Data_Analysis Pandas NumPy Scikit-learn TensorFlow Statistics,90k-150k,AI/ML
+Machine Learning Engineer,Python Machine_Learning Deep_Learning TensorFlow PyTorch Neural_Networks Computer_Vision NLP,100k-180k,AI/ML
+DevOps Engineer,Docker Kubernetes AWS CI/CD Jenkins Terraform Ansible Linux Python Automation,85k-140k,DevOps
+Backend Developer,Java Python Node.js SQL REST_API Microservices Spring Django PostgreSQL MongoDB,80k-130k,Development
+Frontend Developer,JavaScript React Angular Vue.js HTML CSS TypeScript Redux Webpack REST_API,75k-125k,Development
+Full Stack Developer,JavaScript Python React Node.js SQL MongoDB Express HTML CSS Docker,85k-145k,Development
+Cloud Architect,AWS Azure GCP Cloud_Architecture Kubernetes Docker Terraform Networking Security,110k-170k,Cloud
+Mobile Developer,Java Kotlin Swift React_Native Android iOS Mobile_Development REST_API SQLite,80k-135k,Mobile
+Data Engineer,Python SQL ETL Apache_Spark Apache_Kafka Data_Warehousing Airflow Hadoop BigQuery,90k-155k,Data
+AI Research Scientist,Python Machine_Learning Deep_Learning TensorFlow PyTorch Research Neural_Networks NLP,120k-200k,AI/ML
+Security Engineer,Python Cybersecurity Networking Penetration_Testing Security_Tools Firewalls Linux,95k-160k,Security
+Database Administrator,SQL Database_Design PostgreSQL MySQL Oracle MongoDB Performance_Tuning Backup_Recovery,80k-125k,Database
+Software Architect,Java Python System_Design Architecture Microservices Design_Patterns Cloud AWS,120k-180k,Architecture
+QA Engineer,Python Selenium Testing Automation Java QA API_Testing Performance_Testing CI/CD,70k-115k,QA
+Blockchain Developer,Solidity Ethereum Blockchain Smart_Contracts Web3 Cryptography JavaScript Node.js,100k-170k,Blockchain
+Game Developer,C++ C# Unity Unreal_Engine 3D_Modeling Game_Design Animation Python Scripting,85k-145k,Gaming
+Systems Administrator,Linux Windows Scripting Bash PowerShell Networking Automation Monitoring Security,75k-120k,Systems
+Network Engineer,Networking Cisco Routers Switches TCP/IP Firewalls VPN Security Linux,80k-130k,Networking
+UI/UX Designer,Figma Adobe_XD UI_Design UX_Design Prototyping User_Research HTML CSS JavaScript,70k-120k,Design
+Product Manager,Product_Management Agile Scrum Data_Analysis Communication SQL Python Leadership,100k-160k,Management
+Site Reliability Engineer,Python Linux Docker Kubernetes Monitoring Automation Terraform CI/CD AWS Prometheus,110k-175k,DevOps
+MLOps Engineer,Python Machine_Learning MLOps Kubernetes Docker CI/CD Airflow TensorFlow Monitoring,105k-170k,AI/ML
+Cloud Engineer,AWS Azure GCP Cloud_Computing Kubernetes Docker Terraform CI/CD Python Networking,95k-150k,Cloud
+API Developer,Python Node.js REST_API GraphQL API_Design Microservices Docker Kubernetes Swagger,85k-140k,Development
+Embedded Systems Engineer,C C++ Embedded_Systems RTOS Microcontrollers IoT Hardware Linux ARM Debugging,90k-145k,Embedded
