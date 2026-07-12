@@ -123,3 +123,5 @@ job_role,required_skills,salary_range,category
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run tests: `python test_recommender.py`
 3. Try interactive mode: `python tech_stack_recommender.py`
+
+web link: https://decodelabs-internship-project-3-98ho97ia4mfqvxj7ep6nyr.streamlit.app
